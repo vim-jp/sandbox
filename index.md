@@ -7,3 +7,9 @@ title: sandbox
 |------|--------|----|
 |りんご|赤      |   8|
 |みかん|オレンジ|  32|
+
+http://vim-jp.org/sandbox/
+
+this is ~~good~~ bad
+
+this is the 2^(nd) time

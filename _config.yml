@@ -1,0 +1,5 @@
+markdown: redcarpet 
+base-url: /sandbox
+
+redcarpet:
+  extensions: ["tables",  "autolink",  "strikethrough",  "superscript"]
