@@ -13,3 +13,7 @@ http://vim-jp.org/sandbox/
 this is ~~good~~ bad
 
 this is the 2^(nd) time
+
+### jekyll 1.0 test
+
+* phase 1
