@@ -17,3 +17,4 @@ this is the 2^(nd) time
 ### jekyll 1.0 test
 
 * phase 1
+* phase 2
