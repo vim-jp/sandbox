@@ -1,5 +1,9 @@
-﻿<ul>
+﻿---
+layout: default
+title: truncate のテスト
+---
+<ul>
 {% for p in site.posts %}
-<li><a href="{{ page.url }}">{{ page.title | truncate: 8 }}</a><br /><span>{{ page.content | truncate: 20 }}</span></li>
+<li><a href="{{ page.url }}">{{ page.title | truncate: 7 }}</a><br /><span>{{ page.content | truncate: 17 }}</span></li>
 {% endfor %}
 </ul>
