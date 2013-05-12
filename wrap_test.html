@@ -4,6 +4,6 @@ title: truncate のテスト
 ---
 <ul>
 {% for p in site.posts %}
-<li><a href="{{ page.url }}">{{ page.title | truncate: 7 }}</a><br /><span>{{ page.content | truncate: 17 }}</span></li>
+<li><a href="{{ p.url }}">{{ p.title | truncate: 7 }}</a><br /><span>{{ p.content | truncate: 17 }}</span></li>
 {% endfor %}
 </ul>
