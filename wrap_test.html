@@ -2,6 +2,11 @@
 layout: default
 title: truncate のテスト
 ---
+<p>
+gh-pages では truncate がマルチバイト文字を崩すことを確認。
+おそらくUTF-8のバイト配列がそのまま文字列になっちゃってる(=UTF-8としてデコードされていない)んだろう。
+</p>
+
 <ul>
 {% for p in site.posts %}
 <li><a href="{{ p.url }}">{{ p.title | truncate: 7 }}</a><br /><span>{{ p.content | truncate: 17 }}</span></li>
