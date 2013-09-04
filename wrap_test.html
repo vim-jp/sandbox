@@ -6,6 +6,7 @@ title: truncate のテスト
 gh-pages では truncate がマルチバイト文字を崩すことを確認。
 おそらくUTF-8のバイト配列がそのまま文字列になっちゃってる(=UTF-8としてデコードされていない)んだろう。
 </p>
+<p>追記: 修正されたもよう。</p>
 
 <ul>
 {% for p in site.posts %}
