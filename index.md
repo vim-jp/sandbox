@@ -16,8 +16,6 @@ this is the 2^(nd) time
 
 This is _underlined_ but this is still *italic*.
 
-This is ==highlighted== .
-
 ### jekyll 1.0 test
 
 * phase 1

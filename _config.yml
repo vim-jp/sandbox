@@ -6,4 +6,4 @@ exclude:
   - 'README.md'
 
 redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "superscript", "underline", "highlight"]
+  extensions: ["tables", "autolink", "strikethrough", "superscript", "underline"]
