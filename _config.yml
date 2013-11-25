@@ -3,6 +3,7 @@ base-url: /sandbox
 exclude:
   - 'tmp'
   - 'foo'
+  - 'README.md'
 
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "superscript", "underline", "highlight"]
