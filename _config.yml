@@ -1,8 +1,8 @@
-markdown: redcarpet 
+markdown: redcarpet
 base-url: /sandbox
 exclude:
   - 'tmp'
   - 'foo'
 
 redcarpet:
-  extensions: ["tables",  "autolink",  "strikethrough",  "superscript"]
+  extensions: ["tables", "autolink", "strikethrough", "superscript", "underline", "highlight"]
