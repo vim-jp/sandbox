@@ -21,3 +21,9 @@ This is _underlined_ but this is still *italic*.
 * phase 1
 * phase 2
 * phase 3
+
+:smile: 
+
+@crazymaster
+
+redirect_test: http://sandbox.vim-jp.org/post/123456789
