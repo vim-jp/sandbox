@@ -26,4 +26,3 @@ This is _underlined_ but this is still *italic*.
 
 @crazymaster
 
-redirect_test: http://sandbox.vim-jp.org/post/123456789
