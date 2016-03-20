@@ -1,5 +1,5 @@
-markdown: redcarpet
 base-url: /sandbox
+
 exclude:
   - 'tmp'
   - 'foo'
@@ -12,3 +12,7 @@ gems:
   - jekyll-mentions
   - jekyll-redirect-from
   - jemoji
+
+### Markdown Processors
+kramdown:
+  input: GFM
